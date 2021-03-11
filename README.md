@@ -5,3 +5,4 @@ This project was completed as the capstone project of the IBM Data Science Profe
 Data was scraped from the Foursquare API, Wikipedia and Toronto Airbnb.
 
 I completed the course in March 2021 and my credentials can be found here: https://coursera.org/share/55d207b5c49d3581c695f3b931b8d9ce
+https://www.coursera.org/account/accomplishments/specialization/certificate/3PX97XKZUU47
